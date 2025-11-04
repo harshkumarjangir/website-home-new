@@ -51,8 +51,8 @@ export default function Home() {
       <ConsultationForm />
       <LatestBlogs data={homeData.latestBlogs} />
       <DiscussProject data={homeData.discussProject} />
-      <GlobalOffices />
-      <Footer />
+      {/* <GlobalOffices /> */}
+      {/* <Footer /> */}
     </>
   );
 }

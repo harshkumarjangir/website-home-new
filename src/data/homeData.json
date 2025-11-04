@@ -919,75 +919,74 @@
   },
   "caseStudySection": [
     {
-      "company": "Adidas",
-      "description": "Crafting innovation for the consumer markets with Adidas",
+      "company": "Zevio",
+      "description": "Go beyond the headlines when psychologists, athletes, media personalities, scientists, politicians, authors, musicians, investors, explorers, entrepreneurs, coaches, teachers, gurus, historians, soldiers, and doctors stream their stories and share their knowledge directly to you.",
       "result": "Result",
       "stats": [
         {
-          "count": "5M+",
-          "title": "App downloads"
+          "count": "10K+",
+          "title": "App Downloads"
         },
         {
-          "count": "5M+",
-          "title": "App downloads"
+          "count": "3+",
+          "title": "App Ratings"
         }
       ],
-      "buttonText": "View case study",
-      "buttonLink": "#",
+      "buttonText": "View Project",
+      "buttonLink": "https://play.google.com/store/apps/details?id=com.zevio",
       "image": "/assets/home/caseStudy/showcase-adidas.webp"
     },
     {
-      "company": "IKEA",
-      "description": "Revolutionizing home solutions for millions with IKEA",
-      "result": "Result",
+      "company": "Boatflex - Boat rental Europe",
+      "description": "With the Boatflex app, you have access to fleets of professionally and privately owned rental boats all along the beautiful coasts of Europe.",
       "stats": [
         {
-          "count": "3M+",
-          "title": "App downloads"
+          "count": "1K+",
+          "title": "App Downloads"
         },
         {
-          "count": "2M+",
-          "title": "Active users"
+          "count": "3+",
+          "title": "App Ratings"
         }
       ],
-      "buttonText": "View case study",
-      "buttonLink": "#",
+      "buttonText": "View Project",
+      "buttonLink": "https://play.google.com/store/apps/details?id=com.boatflexaps",
       "image": "/assets/home/caseStudy/showcase-ikea.webp"
     },
     {
-      "company": "Pizza Hut",
-      "description": "Delivering seamless food ordering experience with Pizza Hut",
+      "company": "Garaaz",
+      "description": "One-stop solution to purchase all car parts of all companies from genuine and aftermarket parts distributors. Provides analytics to parts distributor team of goods sold part category-wise, part group-wise, segment-wise, customer-wise, salesman-wise, branch-wise etc.",
       "result": "Result",
       "stats": [
         {
-          "count": "7M+",
-          "title": "Orders processed"
+          "count": "1K+",
+          "title": "App Downloads"
         },
         {
-          "count": "4M+",
-          "title": "Active users"
+          "count": "3+",
+          "title": "App Ratings"
         }
       ],
-      "buttonText": "View case study",
-      "buttonLink": "#",
+      "buttonText": "View Project",
+      "buttonLink": "https://play.google.com/store/apps/details?id=com.garaaz",
       "image": "/assets/home/caseStudy/showcase-pizzahut.webp"
     },
     {
-      "company": "Americana",
-      "description": "Empowering next-gen tech solutions for Americana",
+      "company": "Toronto Real Esate HomeOptima",
+      "description": "Find your perfect home by using HomeOptima's top rated home search app that combines MLS® listings - Active, Sold and Conditionally Sold, neighbourhood insights, smart notifications, sharing and favorites management to provide you an unparalleled home search experience across all your devices.",
       "result": "Result",
       "stats": [
         {
-          "count": "1M+",
-          "title": "Solutions delivered"
+          "count": "5.0+",
+          "title": "App Ratings"
         },
         {
-          "count": "500K+",
-          "title": "Active users"
+          "count": "2+",
+          "title": "App Reviews"
         }
       ],
-      "buttonText": "View case study",
-      "buttonLink": "#",
+      "buttonText": "View Project",
+      "buttonLink": "https://apps.apple.com/us/app/toronto-real-estate-homeoptima/id886930132",
       "image": "/assets/home/caseStudy/americana-portfolio-img.webp"
     }
   ],
