@@ -120,13 +120,13 @@ const PartnershipSection = ({ data }) => {
                   }`}
               >
                 {/* Front side (logo) */}
-                <div className="absolute inset-0 flex items-center justify-center bg-white rounded-xl p-3 backface-hidden">
+                <div className="absolute inset-0 flex items-center justify-center rounded-xl p-3 backface-hidden">
                   <Image
                     src={logo.src}
                     alt={logo.name}
                     width={150}
                     height={60}
-                    className="object-contain grayscale hover:grayscale-0 transition"
+                    className={`object-contain transition ${logo.name === "Robot AT Work" ? "invert" : ""}`}
                   />
                 </div>
 

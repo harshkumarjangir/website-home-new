@@ -934,7 +934,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://play.google.com/store/apps/details?id=com.zevio",
-      "image": "/assets/home/caseStudy/showcase-adidas.webp"
+      "image": "/assets/home/caseStudy/zevio.png"
     },
     {
       "company": "Boatflex - Boat rental Europe",
@@ -951,7 +951,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://play.google.com/store/apps/details?id=com.boatflexaps",
-      "image": "/assets/home/caseStudy/showcase-ikea.webp"
+      "image": "/assets/home/caseStudy/boatflex.png"
     },
     {
       "company": "Garaaz",
@@ -969,7 +969,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://play.google.com/store/apps/details?id=com.garaaz",
-      "image": "/assets/home/caseStudy/showcase-pizzahut.webp"
+      "image": "/assets/home/caseStudy/garaaz.png"
     },
     {
       "company": "Toronto Real Esate HomeOptima",
@@ -987,7 +987,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://apps.apple.com/us/app/toronto-real-estate-homeoptima/id886930132",
-      "image": "/assets/home/caseStudy/americana-portfolio-img.webp"
+      "image": "/assets/home/caseStudy/toronto-real-esate-home-optima.png"
     }
   ],
   "aiAdvisorySection": {
@@ -1002,64 +1002,28 @@
     "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
     "logos": [
       {
-        "name": "IKEA",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
+        "name": "Zedio",
+        "src": "/assets/home/partnership/zedio.webp"
       },
       {
-        "name": "Google",
-        "src": "/assets/home/partnership/google-logo-color.svg"
+        "name": "Boatflex",
+        "src": "/assets/home/partnership/boatflex.svg"
       },
       {
-        "name": "BCG",
-        "src": "/assets/home/partnership/bcc-logo-color.svg"
+        "name": "Garaaz",
+        "src": "/assets/home/partnership/garaaz.webp"
       },
       {
-        "name": "KFC",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
+        "name": "Toronto Real Estate",
+        "src": "/assets/home/partnership/toronto.webp"
       },
       {
-        "name": "TGI Fridays",
-        "src": "/assets/home/partnership/friday-logo-color.svg"
+        "name": "Robot AT Work",
+        "src": "/assets/home/partnership/robotatwork.png"
       },
       {
-        "name": "Moo",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Krispy Kreme",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Hardee's",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Bajaj Allianz",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Domino's",
-        "src": "/assets/home/partnership/domin-logo-color.svg"
-      },
-      {
-        "name": "SuperShe",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Wimpy",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Empire Hotels",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "JobGet",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
-      },
-      {
-        "name": "Asian Bank",
-        "src": "/assets/home/partnership/ikea-logo-color.svg"
+        "name": "Sprogkar",
+        "src": "/assets/home/partnership/sprogklar.png"
       }
     ]
   },
