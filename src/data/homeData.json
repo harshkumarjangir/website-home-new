@@ -1,0 +1,1787 @@
+{
+  "headerBanner": {
+    "phones": [
+      {
+        "number": "9358593002",
+        "label": "Sales"
+      },
+      {
+        "number": "9358593003",
+        "label": "HR"
+      }
+    ],
+    "tagline": "We answer our phones!",
+    "cta": {
+      "text": "Unlock Your Growth with",
+      "highlight": "AI",
+      "subtext": ": Watch Now",
+      "link": "#",
+      "icon": "/assets/home/headerBanner/ai_itms_icon.svg"
+    },
+    "socials": [
+      {
+        "name": "WhatsApp",
+        "icon": "/assets/home/headerBanner/wts.svg",
+        "link": "https://wa.me/9358593002"
+      },
+      {
+        "name": "Gmail",
+        "icon": "/assets/home/headerBanner/mail.svg",
+        "link": "mailto:info@example.com"
+      }
+    ]
+  },
+  "heroSection": {
+    "backgroundVideo": "/assets/home/hero/herovideo.webm",
+    "heading": "Engineering Global Digital Disruption with AI-Native Solutions",
+    "description": "We are a Deloitte Technology Fast 50 company and a Clutch Global Award 2025 winner for unmatched customer excellence. Our mission is to leverage AI-driven automation and strategic innovation to craft digital solutions that not only meet but anticipate your business needs, ensuring sustainable market leadership.",
+    "buttonText": "Consult Our Experts",
+    "buttonLink": "#",
+    "heroStats": [
+      {
+        "label": "Team",
+        "value": "54+"
+      },
+      {
+        "label": "Projects",
+        "value": "250+"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "4+"
+      },
+      {
+        "label": "Countries",
+        "value": "1+"
+      }
+    ]
+  },
+  "awardSection": {
+    "awards": [
+      {
+        "name": "Deloitte Technology Fast 50",
+        "image": "/assets/home/awards/deloitte-2024.svg"
+      },
+      {
+        "name": "Entrepreneur Award",
+        "image": "/assets/home/awards/entrepreneur-award-logo.svg"
+      },
+      {
+        "name": "Economictimes Award",
+        "image": "/assets/home/awards/economictimes-badge.svg"
+      },
+      {
+        "name": "Times Business Award",
+        "image": "/assets/home/awards/timesbusiness-badge.svg"
+      },
+      {
+        "name": "Clutch Global Award",
+        "image": "/assets/home/awards/clutch-badge-top-100.svg"
+      }
+    ]
+  },
+  "officialPartners": {
+    "title": "Official Partner",
+    "partners": [
+      {
+        "src": "/assets/home/officialPartner/microsoft.png",
+        "label": "Microsoft AI Cloud Partner",
+        "alt": "Microsoft AI Cloud Partner"
+      },
+      {
+        "src": "/assets/home/officialPartner/salesforce.png",
+        "label": "Partner",
+        "alt": "Salesforce Partner"
+      },
+      {
+        "src": "/assets/home/officialPartner/aws.png",
+        "label": "Partner Network",
+        "alt": "AWS Partner Network"
+      }
+    ],
+    "ratings": [
+      {
+        "name": "Clutch",
+        "src": "/assets/home/officialPartner/clutch.png",
+        "score": "5.0"
+      },
+      {
+        "name": "Google",
+        "src": "/assets/home/officialPartner/google.png",
+        "score": "4.7"
+      },
+      {
+        "name": "TopDevelopers",
+        "src": "/assets/home/officialPartner/topdev.png",
+        "score": "5.0"
+      },
+      {
+        "name": "UpCity",
+        "src": "/assets/home/officialPartner/upcity.png",
+        "score": "5.0"
+      },
+      {
+        "name": "DesignRush",
+        "src": "/assets/home/officialPartner/designrush.png",
+        "score": "5.0"
+      }
+    ]
+  },
+  "servicesSection": {
+    "tabs": [
+      {
+        "id": "software",
+        "title": "Software Development",
+        "color": "#0066FF",
+        "services": [
+          {
+            "title": "Custom Software Development",
+            "description": "We build scalable software solutions tailored to your business goals. We build scalable software solutions tailored to your business goals.We build scalable software solutions tailored to your business goals. We build scalable software solutions tailored to your business goals.We build scalable software solutions tailored to your business goals.We build scalable software solutions tailored to your business goals.We build scalable software solutions tailored to your business goals.We build scalable software solutions tailored to your business goals."
+          },
+          {
+            "title": "Enterprise Solutions",
+            "description": "Powerful enterprise apps that streamline operations and boost productivity."
+          },
+          {
+            "title": "Web Application Development",
+            "description": "Modern, fast, and responsive web apps for all devices."
+          },
+          {
+            "title": "UI/UX Design",
+            "description": "Intuitive interfaces designed for engagement and conversion."
+          },
+          {
+            "title": "Software Maintenance",
+            "description": "Keep your software running smoothly with continuous support."
+          }
+        ]
+      },
+      {
+        "id": "blockchain",
+        "title": "Blockchain Development",
+        "color": "#0FCF9F",
+        "services": [
+          {
+            "title": "Smart Contract Development",
+            "description": "Automate trust with secure, audited smart contracts."
+          },
+          {
+            "title": "Crypto Wallet Development",
+            "description": "Build secure crypto wallets supporting multiple chains."
+          },
+          {
+            "title": "NFT Marketplace",
+            "description": "Create stunning NFT marketplaces with advanced features."
+          },
+          {
+            "title": "DeFi Platform Development",
+            "description": "Launch scalable decentralized finance platforms."
+          },
+          {
+            "title": "Token Development",
+            "description": "Custom token creation with secure blockchain integration."
+          }
+        ]
+      },
+      {
+        "id": "app",
+        "title": "App Development",
+        "color": "#FF9900",
+        "services": [
+          {
+            "title": "iOS App Development",
+            "description": "High-performance iOS apps optimized for Apple’s ecosystem."
+          },
+          {
+            "title": "Android App Development",
+            "description": "Seamless Android experiences for global audiences."
+          },
+          {
+            "title": "Cross-Platform Apps",
+            "description": "Build once, deploy everywhere with React Native or Flutter."
+          },
+          {
+            "title": "App UI/UX Design",
+            "description": "Beautiful and user-friendly mobile app designs."
+          },
+          {
+            "title": "App Maintenance",
+            "description": "Regular updates and performance monitoring for your apps."
+          }
+        ]
+      },
+      {
+        "id": "game",
+        "title": "Game Development",
+        "color": "#FF3366",
+        "services": [
+          {
+            "title": "Unity Game Development",
+            "description": "Create 2D/3D games with immersive experiences."
+          },
+          {
+            "title": "Mobile Game Development",
+            "description": "Fun and addictive games for iOS and Android."
+          },
+          {
+            "title": "AR/VR Game Development",
+            "description": "Enter new dimensions with AR & VR gaming experiences."
+          },
+          {
+            "title": "Metaverse Game Development",
+            "description": "Integrate games into virtual metaverse worlds."
+          },
+          {
+            "title": "Multiplayer Game Backend",
+            "description": "Scalable and secure backends for real-time gaming."
+          }
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI Development",
+        "color": "#8B5CF6",
+        "services": [
+          {
+            "title": "AI Chatbot Development",
+            "description": "Engage users with intelligent, human-like chatbots."
+          },
+          {
+            "title": "Predictive Analytics",
+            "description": "Use machine learning to predict and improve outcomes."
+          },
+          {
+            "title": "Computer Vision",
+            "description": "Enable machines to understand and interpret visuals."
+          },
+          {
+            "title": "NLP Solutions",
+            "description": "Natural Language Processing tools for real understanding."
+          },
+          {
+            "title": "AI Model Training",
+            "description": "Custom AI models tailored to your data and needs."
+          }
+        ]
+      },
+      {
+        "id": "metaverse",
+        "title": "Metaverse",
+        "color": "#9E00FF",
+        "services": [
+          {
+            "title": "Metaverse Integration Services",
+            "description": "We integrate Metaverse solutions with existing platforms to enhance user engagement."
+          },
+          {
+            "title": "Metaverse Game Development",
+            "description": "Build interactive and engaging games inside the Metaverse."
+          },
+          {
+            "title": "Metaverse 3D Space & Avatar Development",
+            "description": "Create lifelike 3D environments and avatars for virtual worlds."
+          },
+          {
+            "title": "Metaverse NFT Marketplace",
+            "description": "Launch your own NFT marketplace in the Metaverse."
+          },
+          {
+            "title": "Metaverse Fashion Store Development",
+            "description": "Create immersive fashion experiences in the Metaverse."
+          }
+        ]
+      }
+    ],
+    "desktopImg": "/assets/home/services/service-img.png",
+    "mobileImg": "/assets/home/services/services-res.webp"
+  },
+  "discussProject": {
+    "title": "Let's Discuss Your Project!",
+    "description": "Share your project idea and we’ll provide a free consultation on how we will turn it into an amazing digital product.",
+    "buttonText": "Get A Free Quote Now",
+    "buttonUrl": "#",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.7378059542393!2d75.76635467442365!3d26.8800701614945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5a5fb98562f%3A0x18d64b11f30e9600!2sMetaBlock%20Technologies%20%7C%20Web%203.0%20and%20Blockchain%20Development!5e0!3m2!1sen!2sin!4v1759814684995!5m2!1sen!2sin"
+  },
+  "latestBlogs": {
+    "title": "Our Latest Tech Blogs",
+    "subtitle": "Get the latest updates on development insights, technologies and trends.",
+    "viewAllText": "View All Blogs",
+    "viewAllUrl": "#",
+    "blogs": [
+      {
+        "title": "What’s the Cost to Hire...",
+        "description": "Are you the one looking forward to hiring handyman app developers, but confused about their cost or the price? Well, it...",
+        "image": "/assets/home/latestBlogs/blog1.png",
+        "maintag": "Development",
+        "url": "#",
+        "readMoreText": "Explore More"
+      },
+      {
+        "title": "Use Cases of AI in Social...",
+        "description": "Key Takeaways AI is transforming social media by delivering personalized experiences, predictive insights, and...",
+        "image": "/assets/home/latestBlogs/blog2.png",
+        "maintag": "AI Development",
+        "url": "#",
+        "readMoreText": "Explore More"
+      },
+      {
+        "title": "How to Create a Salon...",
+        "description": "Key Takeaways The global salon service market is projected to be USD 429.8 billion by 2035, with the rise in on-demand salon...",
+        "image": "/assets/home/latestBlogs/blog3.png",
+        "maintag": "Blockchain",
+        "url": "#",
+        "readMoreText": "Explore More"
+      }
+    ]
+  },
+  "videoTestimonials": {
+    "title": "Stories from Our Happy Clients",
+    "subtitle": "Discover the stories behind the success and the partnerships we cherish.",
+    "features": [
+      "Dedicated, accountable resources",
+      "Save up to 60% for your development cost",
+      "Quick team ramp-up & no contract lock-ins",
+      "Quickly increase or decrease your team size",
+      "Fixed cost, hourly or monthly engagements",
+      "97%+ client retention rate",
+      "Strict non-disclosure agreement",
+      "Clear, concise and consistent communication"
+    ],
+    "videos": [
+      {
+        "thumbnail": "/assets/home/videoTestimonials/images/review-image-1.png",
+        "videoSrc": "/assets/home/videoTestimonials/videos/review-video-1.mp4"
+      },
+      {
+        "thumbnail": "/assets/home/videoTestimonials/images/david-vid.webp",
+        "videoSrc": "/assets/home/videoTestimonials/videos/review-video-2.mp4"
+      }
+    ]
+  },
+  "partnershipExperience": [
+    {
+      "id": 1,
+      "text": "We approached Appinventiv with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge.",
+      "author": "Neeraj Tiwari",
+      "role": "Director - Digital Engineering",
+      "company": "Americana Group (Kuwait Food Co.)",
+      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
+      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+    },
+    {
+      "id": 2,
+      "text": "The team provided us with excellent support and technical expertise. Their ability to understand our requirements and translate them into a seamless mobile experience truly impressed us.",
+      "author": "Emily Carter",
+      "role": "Product Manager",
+      "company": "TechWave Solutions",
+      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
+      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+    },
+    {
+      "id": 3,
+      "text": "Working with Appinventiv has been a game-changer. The solution delivered was not only technically sound but also user-friendly, leading to an increase in customer satisfaction and retention.",
+      "author": "James Anderson",
+      "role": "CTO",
+      "company": "NextGen Innovations",
+      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
+      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+    }
+  ],
+  "ourServices": [
+    {
+      "id": "blockchain",
+      "title": "Blockchain Development Services for Your Innovative Business",
+      "image": "/assets/home/ourServices/blockchain.png",
+      "items": [
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting",
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting"
+      ]
+    },
+    {
+      "id": "launchpad",
+      "title": "Launchpad – Our Services for Launchpad Development.",
+      "image": "/assets/home/ourServices/lauchpad.jpg",
+      "items": [
+        "Metaverse Development",
+        "Metaverse Token Development",
+        "Metaverse E-Commerce Platform Development",
+        "Metaverse Solutions for Industries",
+        "Metaverse Social Media Platform Development",
+        "Metaverse 3D Spaces Development",
+        "Metaverse Game Development",
+        "Metaverse NFT Marketplace Development",
+        "Metaverse Integration Services",
+        "Metaverse Event Platform Development"
+      ]
+    },
+    {
+      "id": "nft",
+      "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+      "image": "/assets/home/ourServices/nft-development.jpg",
+      "items": [
+        "NFT Marketplace Development",
+        "NFT Gaming Platform Development",
+        "NFT Token Development",
+        "NFT Art Marketplace Development",
+        "NFT Music Marketplace Development",
+        "NFT Launchpad Development",
+        "NFT Exchange Platform Development",
+        "Celebrity NFT Marketplace Development",
+        "NFT Staking & Lending Platform Development",
+        "Cross-Chain NFT Marketplace Development"
+      ]
+    },
+    {
+      "id": "DeFi",
+      "title": "Defi - Defy traditional finance with the DeFi revolution.",
+      "image": "/assets/home/ourServices/defi-development.jpg",
+      "items": [
+        "Decentralized Finance (DeFi) Development",
+        "DeFi Lending/ Borrowing Platform Development",
+        "DeFi Smart Contract Development",
+        "DeFi DApp Development",
+        "DeFi Token Development",
+        "DeFi Exchange Development",
+        "DeFi Wallet Development",
+        "DeFi Insurance Development",
+        "DeFi Staking Platform Development",
+        "DeFi Yield Farming Development",
+        "DeFi Solutions for Industries",
+        "DeFi Crypto Synthetic Assets Development"
+      ]
+    },
+    {
+      "id": "dex",
+      "title": "Dex – Our Services for Dex Development.",
+      "image": "/assets/home/ourServices/DEX development.jpg",
+      "items": [
+        "Metaverse Development",
+        "Metaverse Token Development",
+        "Metaverse E-Commerce Platform Development",
+        "Metaverse Solutions for Industries",
+        "Metaverse Social Media Platform Development",
+        "Metaverse 3D Spaces Development",
+        "Metaverse Game Development",
+        "Metaverse NFT Marketplace Development",
+        "Metaverse Integration Services",
+        "Metaverse Event Platform Development"
+      ]
+    },
+    {
+      "id": "token",
+      "title": "Token - Our Services for Token Development.",
+      "image": "/assets/home/ourServices/token-development.jpg",
+      "items": [
+        "Ethereum Token Creation",
+        "Development of Tron Tokens",
+        "Development of Solana Tokens",
+        "Development of Polygon Tokens",
+        "Development of Asset Tokens",
+        "Development of Metaverse Tokens",
+        "Development of Smart Contracts",
+        "Development of Token Generator Platform",
+        "Development of Altcoin Tokens"
+      ]
+    },
+    {
+      "id": "wallet",
+      "title": "Wallet - Our Services for Wallet Development.",
+      "image": "/assets/home/ourServices/wallet development.jpg",
+      "items": [
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting",
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting"
+      ]
+    }
+  ],
+  "softwarePreview1": {
+    "tabs": [
+      "AI Powered Software",
+      "AI Powered Application",
+      "AI Powered Games",
+      "AI Powered Website"
+    ],
+    "tabData": {
+      "AI Powered Software": {
+        "heading": "Software Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Camel Racing Game",
+            "description": "An exciting desert racing experience where players compete in the ancient sport of camel racing."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Dog Racing Game",
+            "description": "Test your reflexes and strategy in the thrilling world of dog racing."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Arcade Gaming Zone",
+            "description": "Step into the world of neon-lit arcade games, where skill and excitement collide in a nostalgic gaming experience."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Camel Racing Game",
+            "description": "An exciting desert racing experience where players compete in the ancient sport of camel racing."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Dog Racing Game",
+            "description": "Test your reflexes and strategy in the thrilling world of dog racing."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Arcade Gaming Zone",
+            "description": "Step into the world of neon-lit arcade games, where skill and excitement collide in a nostalgic gaming experience."
+          }
+        ]
+      },
+      "AI Powered Application": {
+        "heading": "Application Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Productivity Suite",
+            "description": "Boost efficiency with our AI-powered productivity tools."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Health Tracker",
+            "description": "Monitor your well-being with AI insights and real-time health tracking."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Productivity Suite",
+            "description": "Boost efficiency with our AI-powered productivity tools."
+          }
+        ]
+      },
+      "AI Powered Games": {
+        "heading": "AI Games Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Neon Drift",
+            "description": "Experience futuristic racing with adaptive AI opponents."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Galaxy Defender",
+            "description": "Defend the universe with intelligent combat strategies powered by AI."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "Neon Drift",
+            "description": "Experience futuristic racing with adaptive AI opponents."
+          }
+        ]
+      },
+      "AI Powered Website": {
+        "heading": "Website Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Portfolio Site",
+            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide2.webp",
+            "title": "E-commerce Platform",
+            "description": "AI-powered e-commerce sites that recommend products dynamically."
+          },
+          {
+            "img": "/assets/home/softwarePreview/softwareslide1.webp",
+            "title": "Portfolio Site",
+            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
+          }
+        ]
+      }
+    }
+  },
+  "softwarePreview": {
+    "tabs": [
+      "AI Powered Software",
+      "AI Powered Application",
+      "AI Powered Games",
+      "AI Powered Website"
+    ],
+    "tabData": {
+      "AI Powered Software": {
+        "heading": "AI Powered Software Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/software.png",
+            "title": "Smart CRM Suite",
+            "description": "Automate customer management, lead tracking, and sales analytics with AI-driven insights."
+          },
+          {
+            "img": "/assets/home/softwarePreview/application.png",
+            "title": "AI Document Analyzer",
+            "description": "Extract key information and automate workflows from scanned documents using machine learning."
+          },
+          {
+            "img": "/assets/home/softwarePreview/game.png",
+            "title": "Predictive Analytics Platform",
+            "description": "Forecast trends and business outcomes with advanced AI models."
+          },
+          {
+            "img": "/assets/home/softwarePreview/blockchain.png",
+            "title": "Smart CRM Suite",
+            "description": "Automate customer management, lead tracking, and sales analytics with AI-driven insights."
+          },
+          {
+            "img": "/assets/home/softwarePreview/software.png",
+            "title": "AI Document Analyzer",
+            "description": "Extract key information and automate workflows from scanned documents using machine learning."
+          },
+          {
+            "img": "/assets/home/softwarePreview/application.png",
+            "title": "Predictive Analytics Platform",
+            "description": "Forecast trends and business outcomes with advanced AI models."
+          }
+        ]
+      },
+      "AI Powered Application": {
+        "heading": "AI Powered Application Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/application.png",
+            "title": "Health Tracker App",
+            "description": "Monitor your health and receive personalized recommendations powered by AI."
+          },
+          {
+            "img": "/assets/home/softwarePreview/game.png",
+            "title": "Smart Calendar",
+            "description": "Get intelligent scheduling and reminders based on your habits and meetings."
+          },
+          {
+            "img": "/assets/home/softwarePreview/blockchain.png",
+            "title": "Expense Manager",
+            "description": "Track spending and get budgeting tips with AI-powered analytics."
+          }
+        ]
+      },
+      "AI Powered Games": {
+        "heading": "AI Powered Games Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/game.png",
+            "title": "AI Chess Master",
+            "description": "Challenge yourself against an adaptive AI chess engine."
+          },
+          {
+            "img": "/assets/home/softwarePreview/blockchain.png",
+            "title": "Puzzle Adventure",
+            "description": "Solve puzzles with hints and dynamic difficulty powered by AI."
+          },
+          {
+            "img": "/assets/home/softwarePreview/software.png",
+            "title": "AI Racing League",
+            "description": "Race against AI drivers that learn and improve over time."
+          }
+        ]
+      },
+      "AI Powered Website": {
+        "heading": "AI Powered Website Preview",
+        "sliderData": [
+          {
+            "img": "/assets/home/softwarePreview/blockchain.png",
+            "title": "Smart Portfolio",
+            "description": "Personalized portfolio sites that adapt content based on visitor behavior."
+          },
+          {
+            "img": "/assets/home/softwarePreview/software.png",
+            "title": "E-commerce Platform",
+            "description": "AI-powered product recommendations and dynamic pricing for online stores."
+          },
+          {
+            "img": "/assets/home/softwarePreview/application.png",
+            "title": "AI Blog Engine",
+            "description": "Content suggestions and SEO optimization powered by machine learning."
+          }
+        ]
+      }
+    }
+  },
+  "industriesSection": {
+    "title": "A Unified Vision That Caters To | Diverse Industry Demands",
+    "buttonText": "Explore More in Industries",
+    "buttonUrl": "#",
+    "industries": [
+      {
+        "id": 1,
+        "title": "Healthcare",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.,We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.,",
+        "icon": "HeartPulse"
+      },
+      {
+        "id": 2,
+        "title": "Finance",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Wallet"
+      },
+      {
+        "id": 3,
+        "title": "Restaurant",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "UtensilsCrossed"
+      },
+      {
+        "id": 4,
+        "title": "eCommerce",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "ShoppingCart"
+      },
+      {
+        "id": 5,
+        "title": "Electric Vehicle (EV)",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Car"
+      },
+      {
+        "id": 6,
+        "title": "SaaS",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Cloud"
+      },
+      {
+        "id": 7,
+        "title": "Travel",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Plane"
+      },
+      {
+        "id": 8,
+        "title": "Entertainment",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Music"
+      },
+      {
+        "id": 9,
+        "title": "Education",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "BookOpen"
+      },
+      {
+        "id": 10,
+        "title": "Logistics",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Truck"
+      },
+      {
+        "id": 11,
+        "title": "Agriculture",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Leaf"
+      },
+      {
+        "id": 12,
+        "title": "Sports",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Dumbbell"
+      },
+      {
+        "id": 13,
+        "title": "Real Estate",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Building"
+      },
+      {
+        "id": 14,
+        "title": "Energy",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "BatteryCharging"
+      },
+      {
+        "id": 15,
+        "title": "Telecom",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Signal"
+      },
+      {
+        "id": 16,
+        "title": "Retail",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Store"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why choose us in software development?",
+    "description": "Partner with us for innovative software development, as we customize scalable solutions from scratch according to your needs. Through our expert team, quality work, seamless communication, and timely delivery ensure success and growth for you.",
+    "processImage": "/assets/home/whyChooseUs/chooseUs.png",
+    "steps": [
+      {
+        "number": "01",
+        "title": "In-House Development",
+        "description": "In-house development refers to creating software or systems using a network's internal team, ensuring full control over processes, customization, and data security."
+      },
+      {
+        "number": "02",
+        "title": "Using Latest Technologies",
+        "description": "Adopting the latest technology empowers organizations to raise productivity, optimize efficiency, and foster faster innovation."
+      },
+      {
+        "number": "03",
+        "title": "Testing Facility",
+        "description": "A testing facility is a specific environment designed for evaluating products, software, or systems to ensure they meet quality and performance standards."
+      },
+      {
+        "number": "04",
+        "title": "After-Sale Support",
+        "description": "After-sale support refers to the help offered to customers after they buy a product or service, including troubleshooting and updates."
+      },
+      {
+        "number": "05",
+        "title": "Post Payment Terms",
+        "description": "Post-payment terms refer to agreements where buyers pay for goods or services after delivery or completion, fostering trust and smoother cash flow."
+      },
+      {
+        "number": "06",
+        "title": "On-Time Project Delivery",
+        "description": "On-time project delivery ensures tasks are completed within the agreed timeframe, enhancing satisfaction and efficiency."
+      },
+      {
+        "number": "07",
+        "title": "Expert Team and Reliable Support",
+        "description": "An expert team consists of highly qualified professionals who collaborate to deliver high-quality, innovative solutions.,, You know, when people talk about an \"expert team,\" they’re not just babbling about some random bunch. Nah, it's a crew packed with skills and deep know-how—folks who actually get the stuff most people just pretend to understand. The same goes for a \"Religious Team,\" but their specialty is all that spiritual or faith-based juju, right? Whether it’s the Expert Team tackling wild, complicated problems or the Religious Team offering wisdom rooted in tradition, both teams bring something fresh to the table. They pool their brains, swap ideas, and basically turn chaos into something that actually makes sense. At the end of the day, what are you getting from either the Expert Team or the Religious Team? Clarity, direction, and solutions that actually work. Not bad, huh?"
+      },
+      {
+        "number": "08",
+        "title": "Cost Effective Development",
+        "description": "Cost-effective development focuses on maximizing value while minimizing costs through efficient planning and agile methodologies."
+      }
+    ]
+  },
+  "statsSection": {
+    "title": "Transforming Businesses with AI-Driven Technology That Transcends Geographies and Platforms",
+    "description": "Appinventiv is one of the world's largest AI-led IT service providers helping companies redefine their digital possibilities for nearly a decade now. With our team of 1600+ tech evangelists, we are building the digital infrastructure of our clients using intelligent, AI-native solutions, positioning them to be the market leaders of their respective industries.",
+    "stats": [
+      {
+        "count": "35+",
+        "title": "Industries Mastered",
+        "description": "With our agility & engineering expertise, we equip your critical business functions with customized tech, and expand digital capabilities."
+      },
+      {
+        "count": "1600+",
+        "title": "Tech Evangelists",
+        "description": "We are a dynamic team of certified cloud architects, data scientists, and AI/ML specialists passionately driven to achieve the best results for our clients."
+      },
+      {
+        "count": "150+",
+        "title": "AI Models Deployed",
+        "description": "From predictive analytics to generative AI, we've implemented intelligent models that drive measurable ROI."
+      },
+      {
+        "count": "3000+",
+        "title": "Solutions Designed And Delivered",
+        "description": "We have empowered businesses with thousands of successful futuristic and AI-augmented solutions that have helped them grow and scale."
+      },
+      {
+        "count": "500+",
+        "title": "Legacy Processes Transformed",
+        "description": "We help businesses achieve their digital transformation goals by seamlessly integrating advanced technologies into their legacy systems."
+      },
+      {
+        "count": "05+",
+        "title": "Strategic Federal Partnerships",
+        "description": "We drive collaborative initiatives that address critical challenges and deliver impactful solutions."
+      }
+    ]
+  },
+  "caseStudySection": [
+    {
+      "company": "Adidas",
+      "description": "Crafting innovation for the consumer markets with Adidas",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "5M+",
+          "title": "App downloads"
+        },
+        {
+          "count": "5M+",
+          "title": "App downloads"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-adidas.webp"
+    },
+    {
+      "company": "IKEA",
+      "description": "Revolutionizing home solutions for millions with IKEA",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "3M+",
+          "title": "App downloads"
+        },
+        {
+          "count": "2M+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-ikea.webp"
+    },
+    {
+      "company": "Pizza Hut",
+      "description": "Delivering seamless food ordering experience with Pizza Hut",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "7M+",
+          "title": "Orders processed"
+        },
+        {
+          "count": "4M+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-pizzahut.webp"
+    },
+    {
+      "company": "Americana",
+      "description": "Empowering next-gen tech solutions for Americana",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "1M+",
+          "title": "Solutions delivered"
+        },
+        {
+          "count": "500K+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/americana-portfolio-img.webp"
+    }
+  ],
+  "aiAdvisorySection": {
+    "icon": "Sparkles",
+    "title": "MetaBlock Technologies",
+    "description": "MetaBlock Technologies builds custom software, blockchain, AI, and mobile app solutions for business growth. With deep expertise and secure innovation, MetaBlock empowers transformation through digital technology and client-focused development",
+    "buttonText": "Book a Demo Session",
+    "buttonUrl": "https://calendly.com/metablock-digitalmarketing1/30min",
+    "image": "/assets/home/aiadvisory/ai-advisory.webp"
+  },
+  "partnershipSection": {
+    "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
+    "logos": [
+      {
+        "name": "IKEA",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Google",
+        "src": "/assets/home/partnership/google-logo-color.svg"
+      },
+      {
+        "name": "BCG",
+        "src": "/assets/home/partnership/bcc-logo-color.svg"
+      },
+      {
+        "name": "KFC",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "TGI Fridays",
+        "src": "/assets/home/partnership/friday-logo-color.svg"
+      },
+      {
+        "name": "Moo",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Krispy Kreme",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Hardee's",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Bajaj Allianz",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Domino's",
+        "src": "/assets/home/partnership/domin-logo-color.svg"
+      },
+      {
+        "name": "SuperShe",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Wimpy",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Empire Hotels",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "JobGet",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Asian Bank",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      }
+    ]
+  },
+  "solutionsSection": {
+    "title": "Solving Your Biggest Business Challenges with Advanced Technologies",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Lightbulb",
+        "title": "Market Forecasting & Risk Reduction",
+        "description": "Sales forecasts miss the mark, new products fail, and market entry feels like expensive guessing. AI and predictive analytics give you realistic demand forecasts based on actual market data. One retail client cut inventory waste by 40%."
+      },
+      {
+        "id": 2,
+        "icon": "Lightbulb",
+        "title": "Legacy System Modernization",
+        "description": "IT changes take months, integrations break constantly, and systems hold back growth. Smart automation targets your biggest operational headaches without expensive replacements. Saved a manufacturer $2.3M annually."
+      },
+      {
+        "id": 3,
+        "icon": "Lightbulb",
+        "title": "Smart Manufacturing",
+        "description": "Human inspections miss defects. AI-enabled quality checks improve speed and accuracy while reducing costs. One client cut inspection times by 60%."
+      },
+      {
+        "id": 4,
+        "icon": "Lightbulb",
+        "title": "Smart Manufacturing",
+        "description": "Human inspections miss defects. AI-enabled quality checks improve speed and accuracy while reducing costs. One client cut inspection times by 60%."
+      },
+      {
+        "id": 5,
+        "icon": "Lightbulb",
+        "title": "Legacy System Modernization",
+        "description": "IT changes take months, integrations break constantly, and systems hold back growth. Smart automation targets your biggest operational headaches without expensive replacements. Saved a manufacturer $2.3M annually."
+      },
+      {
+        "id": 6,
+        "icon": "Lightbulb",
+        "title": "Market Forecasting & Risk Reduction",
+        "description": "Sales forecasts miss the mark, new products fail, and market entry feels like expensive guessing. AI and predictive analytics give you realistic demand forecasts based on actual market data. One retail client cut inventory waste by 40%."
+      }
+    ]
+  },
+  "offices": {
+    "logo": "/assets/home/globaloffices/app-wht-logo-new.svg",
+    "taglineLogo": "/assets/home/globaloffices/Clutch-Badge-Blue.svg",
+    "tagline": "Most trusted Mobile App Consulting Company on Clutch",
+    "locations": [
+      {
+        "country": "INDIA",
+        "address": "B-25, Sector 58, Noida- 201301, Delhi - NCR, India",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "USA",
+        "address": "79, Madison Ave, Manhattan, NY 10001, USA",
+        "image": "/assets/home/globaloffices/hq-usa.svg"
+      },
+      {
+        "country": "Australia",
+        "address": "96 Cleveland Street, Stones Corner, QLD 4120",
+        "image": "/assets/home/globaloffices/hq-aus-new.svg"
+      },
+      {
+        "country": "UK",
+        "address": "3rd Floor, 86-90 Paul Street EC2A 4NE, London, UK",
+        "image": "/assets/home/globaloffices/hq-uk.svg"
+      },
+      {
+        "country": "UAE",
+        "address": "Tiger Al Yarmook Building, 13th floor B-block, Al Nahda St - Sharjah",
+        "image": "/assets/home/globaloffices/hq-uae.svg"
+      },
+      {
+        "country": "CANADA",
+        "address": "Suite 3810, Bankers Hall West, 888 - 3rd Street Sw, Calgary Alberta",
+        "image": "/assets/home/globaloffices/hq-canada.svg"
+      }
+    ]
+  },
+  "techCapabilities": {
+    "heading1": "Tech Capabilities Driving Digital",
+    "heading2": "Transformation For Our Clients",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Artificial Intelligence",
+        "icon": "Cpu"
+      },
+      {
+        "id": 2,
+        "name": "Frontend Programming Languages",
+        "icon": "Code2"
+      },
+      {
+        "id": 3,
+        "name": "Backend Programming Languages",
+        "icon": "Server"
+      },
+      {
+        "id": 4,
+        "name": "Mobile",
+        "icon": "Smartphone"
+      },
+      {
+        "id": 5,
+        "name": "Big Data",
+        "icon": "Database"
+      },
+      {
+        "id": 6,
+        "name": "Databases / Data Storages",
+        "icon": "Database"
+      },
+      {
+        "id": 7,
+        "name": "Cloud DB, Warehouses And Storage",
+        "icon": "Cloud"
+      },
+      {
+        "id": 8,
+        "name": "DevOps & CI/CD",
+        "icon": "Server"
+      },
+      {
+        "id": 9,
+        "name": "Testing & QA Tools",
+        "icon": "Server"
+      },
+      {
+        "id": 10,
+        "name": "Blockchain",
+        "icon": "Server"
+      },
+      {
+        "id": 11,
+        "name": "IoT",
+        "icon": "Server"
+      }
+    ],
+    "companies": {
+      "Artificial Intelligence": {
+        "Models & APIs": [
+          {
+            "name": "Mistral AI",
+            "image": "/assets/home/TechCapablities/ai/mistral-ai-tech-icon.svg"
+          },
+          {
+            "name": "OpenAI",
+            "image": "/assets/home/TechCapablities/ai/open-ai-tech-icon.svg"
+          },
+          {
+            "name": "Meta",
+            "image": "/assets/home/TechCapablities/ai/meta-tech-icon.svg"
+          },
+          {
+            "name": "Google",
+            "image": "/assets/home/TechCapablities/ai/google-tech-icon.svg"
+          },
+          {
+            "name": "Hugging Face",
+            "image": "/assets/home/TechCapablities/ai/hugging-face-icon.svg"
+          },
+          {
+            "name": "Grok",
+            "image": "/assets/home/TechCapablities/ai/grok-tech-icon.svg"
+          }
+        ],
+        "Vector Databases": [
+          {
+            "name": "MongoDB Atlas",
+            "image": "/assets/home/TechCapablities/ai/vector-db/mongod-atlas-tech-icon.svg"
+          },
+          {
+            "name": "Meta",
+            "image": "/assets/home/TechCapablities/ai/vector-db/meta-tech-icon.svg"
+          },
+          {
+            "name": "Google",
+            "image": "/assets/home/TechCapablities/ai/vector-db/google-tech-icon.svg"
+          }
+        ]
+      },
+      "Frontend Programming Languages": {
+        "Language & Libraries": [
+          {
+            "name": "JavaScript",
+            "image": "/assets/home/TechCapablities/frontend/javascript-lg.svg"
+          },
+          {
+            "name": "React",
+            "image": "/assets/home/TechCapablities/frontend/react-logo-icon.svg"
+          }
+        ],
+        "Frameworks": [
+          {
+            "name": "Next.js",
+            "image": "/assets/home/TechCapablities/frontend/nextlogo.svg"
+          },
+          {
+            "name": "Angular",
+            "image": "/assets/home/TechCapablities/frontend/angular-logo.svg"
+          },
+          {
+            "name": "Nuxt.js",
+            "image": "/assets/home/TechCapablities/frontend/nuxt-js.svg"
+          },
+          {
+            "name": "Vue.js",
+            "image": "/assets/home/TechCapablities/frontend/vuejs-logo.svg"
+          }
+        ]
+      },
+      "Backend Programming Languages": {
+        "General Purpose": [
+          {
+            "name": "Python",
+            "image": "/assets/home/TechCapablities/backend/python.svg"
+          },
+          {
+            "name": "Java",
+            "image": "/assets/home/TechCapablities/backend/java.svg"
+          },
+          {
+            "name": "Go",
+            "image": "/assets/home/TechCapablities/backend/go_lang.svg"
+          },
+          {
+            "name": "Node.js",
+            "image": "/assets/home/TechCapablities/backend/node-js.svg"
+          },
+          {
+            "name": "PHP",
+            "image": "/assets/home/TechCapablities/backend/php.svg"
+          }
+        ],
+        "JavaScript Runtime": [
+          {
+            "name": "Node.js",
+            "image": "/assets/home/TechCapablities/backend/node-js.svg"
+          },
+          {
+            "name": "Deno",
+            "image": "/assets/home/TechCapablities/backend/deno.svg"
+          }
+        ]
+      },
+      "Mobile": {
+        "Cross Platform": [
+          {
+            "name": "Flutter",
+            "image": "/assets/home/TechCapablities/mobile/futter.svg"
+          },
+          {
+            "name": "React Native",
+            "image": "/assets/home/TechCapablities/mobile/react-native.svg"
+          }
+        ],
+        "Native": [
+          {
+            "name": "Swift",
+            "image": "/assets/home/TechCapablities/mobile/swift.svg"
+          },
+          {
+            "name": "Kotlin",
+            "image": "/assets/home/TechCapablities/mobile/kotlin.svg"
+          },
+          {
+            "name": "Java (Android)",
+            "image": "/assets/home/TechCapablities/mobile/java.svg"
+          }
+        ]
+      },
+      "Big Data": {
+        "Frameworks & Processing": [
+          {
+            "name": "Apache Hadoop",
+            "image": "/assets/home/TechCapablities/big-data/apache-hadoop.svg"
+          },
+          {
+            "name": "Apache Spark",
+            "image": "/assets/home/TechCapablities/big-data/spark-streaming-tech-icon.svg"
+          }
+        ],
+        "Tools": [
+          {
+            "name": " Apache Kafka",
+            "image": "/assets/home/TechCapablities/big-data/kafka-streams-tech-icon.svg"
+          },
+          {
+            "name": "Flink",
+            "image": "/assets/home/TechCapablities/big-data/flink-tech-icon.svg"
+          }
+        ]
+      },
+      "Databases / Data Storages": {
+        "Relational": [
+          {
+            "name": "PostgreSQL",
+            "image": "/assets/home/TechCapablities/databases/postgre-sql-tech-icon.svg"
+          },
+          {
+            "name": "MySQL",
+            "image": "/assets/home/TechCapablities/databases/mysql-tech-icon.svg"
+          },
+          {
+            "name": "MariaDB",
+            "image": "/assets/home/TechCapablities/databases/mariadb-icon.svg"
+          }
+        ],
+        "NoSQL": [
+          {
+            "name": "MongoDB",
+            "image": "/assets/home/TechCapablities/databases/mongodb-tech-icon.svg"
+          },
+          {
+            "name": "Cassandra",
+            "image": "/assets/home/TechCapablities/databases/cassandra-tech-icon.svg"
+          },
+          {
+            "name": "Redis",
+            "image": "/assets/home/TechCapablities/databases/redis-logo-svgrepo-com.svg"
+          }
+        ]
+      },
+      "Cloud DB, Warehouses And Storage": {
+        "Providers": [
+          {
+            "name": "Amazon Redshift",
+            "image": "/assets/home/TechCapablities/cloudDB/amazon-redshift.svg"
+          },
+          {
+            "name": "Google BigQuery",
+            "image": "/assets/home/TechCapablities/cloudDB/google_bigquery-icon.svg"
+          }
+        ],
+        "Object Storage": [
+          {
+            "name": "AWS S3",
+            "image": "/assets/home/TechCapablities/cloudDB/amazon-s3-svgrepo-com.svg"
+          },
+          {
+            "name": "Google Cloud Storage",
+            "image": "/assets/home/TechCapablities/cloudDB/Google_Storage-Logo.wine.svg"
+          },
+          {
+            "name": "Azure Blob Storage",
+            "image": "/assets/home/TechCapablities/cloudDB/azure-blob-storage.svg"
+          }
+        ]
+      },
+      "DevOps & CI/CD": {
+        "Tools": [
+          {
+            "name": "Jenkins",
+            "image": "/assets/home/TechCapablities/devops/jenkins-svgrepo-com.svg"
+          },
+          {
+            "name": "GitHub Actions",
+            "image": "/assets/home/TechCapablities/devops/GitHub Actions.svg"
+          }
+        ],
+        "Containerization": [
+          {
+            "name": "Docker",
+            "image": "/assets/home/TechCapablities/devops/docker.svg"
+          },
+          {
+            "name": "Kubernetes",
+            "image": "/assets/home/TechCapablities/devops/kubernetes.svg"
+          }
+        ]
+      },
+      "Testing & QA Tools": {
+        "Automation": [
+          {
+            "name": "Selenium",
+            "image": "/assets/home/TechCapablities/testing-qa/selenium-svgrepo-com.svg"
+          },
+          {
+            "name": "Cypress",
+            "image": "/assets/home/TechCapablities/testing-qa/cypress-svgrepo-com.svg"
+          }
+        ],
+        "Unit": [
+          {
+            "name": "Jest",
+            "image": "/assets/home/TechCapablities/testing-qa/jest.svg"
+          },
+          {
+            "name": "Mocha",
+            "image": "/assets/home/TechCapablities/testing-qa/mocha.svg"
+          }
+        ]
+      },
+      "Blockchain": {
+        "Platforms": [
+          {
+            "name": "Ethereum",
+            "image": "/assets/home/TechCapablities/blockchain/ethereum-eth-logo.svg"
+          },
+          {
+            "name": "Polygon",
+            "image": "/assets/home/TechCapablities/blockchain/polygon-matic-logo.svg"
+          }
+        ],
+        "Tools": [
+          {
+            "name": "Hyperledger",
+            "image": "/assets/home/TechCapablities/blockchain/hyperledger-svgrepo-com.svg"
+          },
+          {
+            "name": "Metamask",
+            "image": "/assets/home/TechCapablities/blockchain/metaMask_Fox.svg"
+          }
+        ]
+      },
+      "IoT": {
+        "Platforms": [
+          {
+            "name": "AWS IoT",
+            "image": "/assets/home/TechCapablities/iot/IoT-Core.svg"
+          },
+          {
+            "name": "Azure IoT",
+            "image": "/assets/home/TechCapablities/iot/azure-IoT-Hub.svg"
+          }
+        ],
+        "Devices": [
+          {
+            "name": "Raspberry Pi",
+            "image": "/assets/home/TechCapablities/iot/raspberry-pi-svgrepo-com.svg"
+          },
+          {
+            "name": "Arduino",
+            "image": "/assets/home/TechCapablities/iot/arduino-svgrepo-com.svg"
+          }
+        ]
+      }
+    }
+  },
+  "techCapabilities2": {
+    "heading1": "Tech Capabilities Driving Digital",
+    "heading2": "Transformation For Our Clients",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Artificial Intelligence",
+        "icon": "Cpu"
+      },
+      {
+        "id": 2,
+        "name": "Frontend Programming Languages",
+        "icon": "Code2"
+      },
+      {
+        "id": 3,
+        "name": "Backend Programming Languages",
+        "icon": "Server"
+      },
+      {
+        "id": 4,
+        "name": "Mobile",
+        "icon": "Smartphone"
+      },
+      {
+        "id": 5,
+        "name": "Big Data",
+        "icon": "Database"
+      },
+      {
+        "id": 6,
+        "name": "Databases / Data Storages",
+        "icon": "Database"
+      },
+      {
+        "id": 7,
+        "name": "Cloud DB, Warehouses And Storage",
+        "icon": "Cloud"
+      },
+      {
+        "id": 8,
+        "name": "DevOps & CI/CD",
+        "icon": "Server"
+      },
+      {
+        "id": 9,
+        "name": "Testing & QA Tools",
+        "icon": "Server"
+      },
+      {
+        "id": 10,
+        "name": "Blockchain",
+        "icon": "Server"
+      },
+      {
+        "id": 11,
+        "name": "IoT",
+        "icon": "Server"
+      }
+    ],
+    "companies": {
+      "Artificial Intelligence": {
+        "Models & APIs": [
+          "Mistral AI",
+          "OpenAI",
+          "Meta",
+          "Google",
+          "Hugging Face",
+          "Grok"
+        ],
+        "Vector Databases": [
+          "Google AI",
+          "Hugging Face",
+          "AWS AI"
+        ]
+      },
+      "Frontend Programming Languages": {
+        "Frameworks": [
+          "React",
+          "Vue.js",
+          "Angular",
+          "Svelte"
+        ],
+        "Meta Frameworks": [
+          "Next.js",
+          "Nuxt.js"
+        ]
+      },
+      "Backend Programming Languages": {
+        "General Purpose": [
+          "Python",
+          "Java",
+          "Go",
+          "Ruby",
+          "PHP"
+        ],
+        "JavaScript Runtime": [
+          "Node.js",
+          "Deno"
+        ]
+      },
+      "Mobile": {
+        "Cross Platform": [
+          "Flutter",
+          "React Native"
+        ],
+        "Native": [
+          "Swift",
+          "Kotlin",
+          "Java (Android)"
+        ]
+      },
+      "Big Data": {
+        "Frameworks & Processing": [
+          "Apache Hadoop",
+          "Apache Spark",
+          "Databricks"
+        ],
+        "Tools": [
+          "Kafka",
+          "Flink"
+        ]
+      },
+      "Databases / Data Storages": {
+        "Relational": [
+          "PostgreSQL",
+          "MySQL",
+          "MariaDB"
+        ],
+        "NoSQL": [
+          "MongoDB",
+          "Cassandra",
+          "Redis"
+        ]
+      },
+      "Cloud DB, Warehouses And Storage": {
+        "Providers": [
+          "Amazon Redshift",
+          "Google BigQuery",
+          "Snowflake"
+        ],
+        "Object Storage": [
+          "AWS S3",
+          "Google Cloud Storage",
+          "Azure Blob Storage"
+        ]
+      },
+      "DevOps & CI/CD": {
+        "Tools": [
+          "Jenkins",
+          "GitHub Actions",
+          "GitLab CI",
+          "CircleCI"
+        ],
+        "Containerization": [
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      "Testing & QA Tools": {
+        "Automation": [
+          "Selenium",
+          "Cypress"
+        ],
+        "Unit": [
+          "Jest",
+          "Mocha"
+        ]
+      },
+      "Blockchain": {
+        "Platforms": [
+          "Ethereum",
+          "Polygon",
+          "Solana"
+        ],
+        "Tools": [
+          "Hyperledger",
+          "Metamask"
+        ]
+      },
+      "IoT": {
+        "Platforms": [
+          "AWS IoT",
+          "Azure IoT",
+          "Google Cloud IoT"
+        ],
+        "Devices": [
+          "Raspberry Pi",
+          "Arduino"
+        ]
+      }
+    }
+  },
+  "developmentProcessSection": {
+    "heading": "Development",
+    "steps": [
+      {
+        "title": "Planning",
+        "bgImage": "process-img1.webp",
+        "points": [
+          "What Are We Building",
+          "What is Our Budget",
+          "Who is The Target Audience",
+          "Which Platform Will it be on"
+        ],
+        "paddingLeft": "20%",
+        "paddingTop": "10%"
+      },
+      {
+        "title": "Pre-Production",
+        "bgImage": "process-img2.webp",
+        "points": [
+          "Storyboarding",
+          "Technological Capabilities",
+          "Prototyping",
+          "Milestone Scheduling"
+        ],
+        "paddingLeft": "30%",
+        "paddingTop": "95%"
+      },
+      {
+        "title": "Production",
+        "bgImage": "process-img3.webp",
+        "points": [
+          "Designing Phase",
+          "Audio and Visual Effects",
+          "Developing and Rendering"
+        ],
+        "paddingLeft": "30%",
+        "paddingTop": "10%"
+      },
+      {
+        "title": "Testing",
+        "bgImage": "process-img4.webp",
+        "points": [
+          "Finding Bugs",
+          "Feature Exploitation",
+          "Is The Game Even Fun",
+          "Easy To Understand User"
+        ],
+        "paddingLeft": "28%",
+        "paddingTop": "92%"
+      },
+      {
+        "title": "Pre-Launch",
+        "bgImage": "process-img5.webp",
+        "points": [
+          "Alpha/Beta Release",
+          "Marketing Hype",
+          "Gaming Conventions",
+          "Independent Ad"
+        ],
+        "paddingLeft": "25%",
+        "paddingTop": "10%"
+      },
+      {
+        "title": "Launch",
+        "bgImage": "process-img6.webp",
+        "points": [
+          "Major Bug Fixing",
+          "Minor Bug Fixing",
+          "Polishing",
+          "Master Release"
+        ],
+        "paddingLeft": "28%",
+        "paddingTop": "92%"
+      },
+      {
+        "title": "Post-Production",
+        "bgImage": "process-img7.webp",
+        "points": [
+          "More Bug Squashing",
+          "Game Patching",
+          "Game Balancing",
+          "Update New Features"
+        ],
+        "paddingLeft": "25%",
+        "paddingTop": "10%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "leftSection": {
+    "title": "Our Technology Experts Are Change Catalysts",
+    "subtitle": "Book A Free Consultation Call With Our Experts Today"
+  },
+  "form": {
+    "fields": [
+      { "type": "text", "name": "fullName", "placeholder": "Full Name" },
+      { "type": "email", "name": "email", "placeholder": "E-mail ID*" },
+      { "type": "tel", "name": "phone", "placeholder": "Contact Number*" },
+      {
+        "type": "select",
+        "name": "budget",
+        "placeholder": "Select a Budget Range",
+        "options": [
+          "Still Evaluating",
+          "Less than $50K",
+          "$50K - $100K",
+          "$100 - $250K",
+          "More than $250K"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Describe Your Project/Idea In Brief*"
+      }
+    ],
+    "ndaLabel": "Include Copy of a Non-Disclosure Agreement",
+    "captcha": "2 + 4 ="
+  },
+  "buttonText": "Request Proposal",
+  "responseNotes": [
+    "In just 2 mins you will get a response",
+    "Your idea is 100% protected by our Non Disclosure Agreement."
+  ]
+}
