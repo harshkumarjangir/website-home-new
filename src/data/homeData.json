@@ -358,44 +358,48 @@
       }
     ]
   },
-  "partnershipExperience": [
-    {
-      "id": 1,
-      "text": "The HomeOptima app delivered personalized real estate insights and live market data, helping thousands make smarter buying and selling decisions in Toronto.",
-      "author": "Richard Wu",
-      "role": "VP and CEO",
-      "company": "Toronto Real Estate HomeOptima",
-      "image": "/assets/home/PartnerExperience/user-image/user.png",
-      "logo": "/assets/home/PartnerExperience/brand-logo/toronto.webp"
-    },
-    {
-      "id": 2,
-      "text": "MetaBlock development of an automotive parts e-commerce platform simplified our supply chain and boosted sales through smart categorization and reliable logistics support.",
-      "author": "Bob Steven",
-      "role": "CTO",
-      "company": "Garaaz",
-      "image": "/assets/home/PartnerExperience/user-image/user.png",
-      "logo": "/assets/home/PartnerExperience/brand-logo/garaaz.webp"
-    },
-    {
-      "id": 3,
-      "text": "Their intuitive boat rental app streamlined booking and expanded our reach across Europe, driving higher customer satisfaction and operational efficiency.",
-      "author": "Sanjukta Ray",
-      "role": "CTO",
-      "company": "Boatflex - Boat rental Europe",
-      "image": "/assets/home/PartnerExperience/user-image/user.png",
-      "logo": "/assets/home/PartnerExperience/brand-logo/boatflex.webp"
-    },
-    {
-      "id": 4,
-      "text": "MetaBlock Technologies developed a secure, user-friendly streaming app that connects experts across industries. The platform has enhanced user engagement and knowledge sharing globally.",
-      "author": "Jeff Shine",
-      "role": "CEO",
-      "company": "Zevio",
-      "image": "/assets/home/PartnerExperience/user-image/user.png",
-      "logo": "/assets/home/PartnerExperience/brand-logo/zevio.webp"
-    }
-  ],
+  "partnershipExperience": {
+    "heading": "First-Hand Opinions Of Clients On Their Partnership Experience",
+    "description": "We are a software and mobile application development company that ensures its expertise extends to offer a seamlessly productive and growth-oriented partnership to its clients.",
+    "testimonials": [
+      {
+        "id": 1,
+        "text": "The HomeOptima app delivered personalized real estate insights and live market data, helping thousands make smarter buying and selling decisions in Toronto.",
+        "author": "Richard Wu",
+        "role": "VP and CEO",
+        "company": "Toronto Real Estate HomeOptima",
+        "image": "/assets/home/PartnerExperience/user-image/user.png",
+        "logo": "/assets/home/PartnerExperience/brand-logo/toronto.webp"
+      },
+      {
+        "id": 2,
+        "text": "MetaBlock development of an automotive parts e-commerce platform simplified our supply chain and boosted sales through smart categorization and reliable logistics support.",
+        "author": "Bob Steven",
+        "role": "CTO",
+        "company": "Garaaz",
+        "image": "/assets/home/PartnerExperience/user-image/user.png",
+        "logo": "/assets/home/PartnerExperience/brand-logo/garaaz.webp"
+      },
+      {
+        "id": 3,
+        "text": "Their intuitive boat rental app streamlined booking and expanded our reach across Europe, driving higher customer satisfaction and operational efficiency.",
+        "author": "Sanjukta Ray",
+        "role": "CTO",
+        "company": "Boatflex - Boat rental Europe",
+        "image": "/assets/home/PartnerExperience/user-image/user.png",
+        "logo": "/assets/home/PartnerExperience/brand-logo/boatflex.webp"
+      },
+      {
+        "id": 4,
+        "text": "MetaBlock Technologies developed a secure, user-friendly streaming app that connects experts across industries. The platform has enhanced user engagement and knowledge sharing globally.",
+        "author": "Jeff Shine",
+        "role": "CEO",
+        "company": "Zevio",
+        "image": "/assets/home/PartnerExperience/user-image/user.png",
+        "logo": "/assets/home/PartnerExperience/brand-logo/zevio.webp"
+      }
+    ]
+  },
   "ourServices": [
     {
       "id": "blockchain",

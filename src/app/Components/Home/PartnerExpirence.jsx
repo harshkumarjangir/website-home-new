@@ -6,7 +6,7 @@ import Image from "next/image";
 import homeData from "@/data/homeData.json";
 
 export default function PartnershipExperience({ data }) {
-  const testimonials = data;
+  const { heading, description, testimonials } = data;
   const [current, setCurrent] = useState(0);
 
   const prevSlide = () => {
@@ -22,12 +22,10 @@ export default function PartnershipExperience({ data }) {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         {/* Heading */}
         <h2 className="text-2xl sm:text-3xl lg:text-4xl mb-4">
-          First-Hand Opinions Of Clients On Their Partnership Experience
+          {heading}
         </h2>
         <p className="text-gray-300 text-base sm:text-lg mb-8 sm:mb-12 max-w-3xl">
-          We are a software and mobile application development company that
-          ensures its expertise extends to offer a seamlessly productive and
-          growth-oriented partnership to its clients.
+          {description}
         </p>
 
         {/* Arrows (desktop) */}
@@ -91,7 +89,7 @@ export default function PartnershipExperience({ data }) {
                       alt="Company Logo"
                       width={100}
                       height={50}
-                      className="object-contain max-sm:hidden"
+                      className="object-contain max-sm:hidden rounded-lg"
                     />
                   </div>
                 </div>
