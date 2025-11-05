@@ -361,30 +361,39 @@
   "partnershipExperience": [
     {
       "id": 1,
-      "text": "We approached Appinventiv with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge.",
-      "author": "Neeraj Tiwari",
-      "role": "Director - Digital Engineering",
-      "company": "Americana Group (Kuwait Food Co.)",
-      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
-      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+      "text": "The HomeOptima app delivered personalized real estate insights and live market data, helping thousands make smarter buying and selling decisions in Toronto.",
+      "author": "Richard Wu",
+      "role": "VP and CEO",
+      "company": "Toronto Real Estate HomeOptima",
+      "image": "/assets/home/PartnerExperience/user-image/user.png",
+      "logo": "/assets/home/PartnerExperience/brand-logo/toronto.webp"
     },
     {
       "id": 2,
-      "text": "The team provided us with excellent support and technical expertise. Their ability to understand our requirements and translate them into a seamless mobile experience truly impressed us.",
-      "author": "Emily Carter",
-      "role": "Product Manager",
-      "company": "TechWave Solutions",
-      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
-      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+      "text": "MetaBlock development of an automotive parts e-commerce platform simplified our supply chain and boosted sales through smart categorization and reliable logistics support.",
+      "author": "Bob Steven",
+      "role": "CTO",
+      "company": "Garaaz",
+      "image": "/assets/home/PartnerExperience/user-image/user.png",
+      "logo": "/assets/home/PartnerExperience/brand-logo/garaaz.webp"
     },
     {
       "id": 3,
-      "text": "Working with Appinventiv has been a game-changer. The solution delivered was not only technically sound but also user-friendly, leading to an increase in customer satisfaction and retention.",
-      "author": "James Anderson",
+      "text": "Their intuitive boat rental app streamlined booking and expanded our reach across Europe, driving higher customer satisfaction and operational efficiency.",
+      "author": "Sanjukta Ray",
       "role": "CTO",
-      "company": "NextGen Innovations",
-      "image": "/assets/home/PartnerExperience/Neeraj-Tiwari-pic.webp",
-      "logo": "/assets/home/PartnerExperience/partnershiplogo.svg"
+      "company": "Boatflex - Boat rental Europe",
+      "image": "/assets/home/PartnerExperience/user-image/user.png",
+      "logo": "/assets/home/PartnerExperience/brand-logo/boatflex.webp"
+    },
+    {
+      "id": 4,
+      "text": "MetaBlock Technologies developed a secure, user-friendly streaming app that connects experts across industries. The platform has enhanced user engagement and knowledge sharing globally.",
+      "author": "Jeff Shine",
+      "role": "CEO",
+      "company": "Zevio",
+      "image": "/assets/home/PartnerExperience/user-image/user.png",
+      "logo": "/assets/home/PartnerExperience/brand-logo/zevio.webp"
     }
   ],
   "ourServices": [
@@ -605,7 +614,7 @@
         ]
       },
       "AI Powered Metaverse": {
-        "heading": "AI Powered Website Preview",
+        "heading": "AI Powered Metaverse Preview",
         "sliderData": [
           {
             "img": "/assets/home/softwarePreview/metaverse/metaverse.png",
