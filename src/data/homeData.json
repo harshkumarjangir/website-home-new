@@ -521,151 +521,36 @@
       ]
     }
   ],
-  "softwarePreview1": {
-    "tabs": [
-      "AI Powered Software",
-      "AI Powered Application",
-      "AI Powered Games",
-      "AI Powered Website"
-    ],
-    "tabData": {
-      "AI Powered Software": {
-        "heading": "Software Preview",
-        "sliderData": [
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Camel Racing Game",
-            "description": "An exciting desert racing experience where players compete in the ancient sport of camel racing."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Dog Racing Game",
-            "description": "Test your reflexes and strategy in the thrilling world of dog racing."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Arcade Gaming Zone",
-            "description": "Step into the world of neon-lit arcade games, where skill and excitement collide in a nostalgic gaming experience."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Camel Racing Game",
-            "description": "An exciting desert racing experience where players compete in the ancient sport of camel racing."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Dog Racing Game",
-            "description": "Test your reflexes and strategy in the thrilling world of dog racing."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Arcade Gaming Zone",
-            "description": "Step into the world of neon-lit arcade games, where skill and excitement collide in a nostalgic gaming experience."
-          }
-        ]
-      },
-      "AI Powered Application": {
-        "heading": "Application Preview",
-        "sliderData": [
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Productivity Suite",
-            "description": "Boost efficiency with our AI-powered productivity tools."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Health Tracker",
-            "description": "Monitor your well-being with AI insights and real-time health tracking."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Productivity Suite",
-            "description": "Boost efficiency with our AI-powered productivity tools."
-          }
-        ]
-      },
-      "AI Powered Games": {
-        "heading": "AI Games Preview",
-        "sliderData": [
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Neon Drift",
-            "description": "Experience futuristic racing with adaptive AI opponents."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Galaxy Defender",
-            "description": "Defend the universe with intelligent combat strategies powered by AI."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "Neon Drift",
-            "description": "Experience futuristic racing with adaptive AI opponents."
-          }
-        ]
-      },
-      "AI Powered Website": {
-        "heading": "Website Preview",
-        "sliderData": [
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Portfolio Site",
-            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide2.webp",
-            "title": "E-commerce Platform",
-            "description": "AI-powered e-commerce sites that recommend products dynamically."
-          },
-          {
-            "img": "/assets/home/softwarePreview/softwareslide1.webp",
-            "title": "Portfolio Site",
-            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
-          }
-        ]
-      }
-    }
-  },
   "softwarePreview": {
     "tabs": [
       "AI Powered Software",
       "AI Powered Application",
       "AI Powered Games",
-      "AI Powered Website"
+      "AI Powered Metaverse"
     ],
     "tabData": {
       "AI Powered Software": {
         "heading": "AI Powered Software Preview",
         "sliderData": [
           {
-            "img": "/assets/home/softwarePreview/software.png",
+            "img": "/assets/home/softwarePreview/softwares/ERP.png",
             "title": "Smart CRM Suite",
             "description": "Automate customer management, lead tracking, and sales analytics with AI-driven insights."
           },
           {
-            "img": "/assets/home/softwarePreview/application.png",
-            "title": "AI Document Analyzer",
-            "description": "Extract key information and automate workflows from scanned documents using machine learning."
-          },
-          {
-            "img": "/assets/home/softwarePreview/game.png",
+            "img": "/assets/home/softwarePreview/softwares/saas.png",
             "title": "Predictive Analytics Platform",
             "description": "Forecast trends and business outcomes with advanced AI models."
           },
           {
-            "img": "/assets/home/softwarePreview/blockchain.png",
-            "title": "Smart CRM Suite",
-            "description": "Automate customer management, lead tracking, and sales analytics with AI-driven insights."
-          },
-          {
-            "img": "/assets/home/softwarePreview/software.png",
+            "img": "/assets/home/softwarePreview/softwares/software.png",
             "title": "AI Document Analyzer",
             "description": "Extract key information and automate workflows from scanned documents using machine learning."
           },
           {
-            "img": "/assets/home/softwarePreview/application.png",
-            "title": "Predictive Analytics Platform",
-            "description": "Forecast trends and business outcomes with advanced AI models."
+            "img": "/assets/home/softwarePreview/softwares/warehouse-mangement.png",
+            "title": "AI Document Analyzer",
+            "description": "Extract key information and automate workflows from scanned documents using machine learning."
           }
         ]
       },
@@ -673,19 +558,24 @@
         "heading": "AI Powered Application Preview",
         "sliderData": [
           {
-            "img": "/assets/home/softwarePreview/application.png",
+            "img": "/assets/home/softwarePreview/application/cab-boking-2.png",
             "title": "Health Tracker App",
             "description": "Monitor your health and receive personalized recommendations powered by AI."
           },
           {
-            "img": "/assets/home/softwarePreview/game.png",
+            "img": "/assets/home/softwarePreview/application/food-delivery-2.png",
             "title": "Smart Calendar",
             "description": "Get intelligent scheduling and reminders based on your habits and meetings."
           },
           {
-            "img": "/assets/home/softwarePreview/blockchain.png",
+            "img": "/assets/home/softwarePreview/application/social-media.png",
             "title": "Expense Manager",
             "description": "Track spending and get budgeting tips with AI-powered analytics."
+          },
+          {
+            "img": "/assets/home/softwarePreview/application/application.png",
+            "title": "Smart Calendar",
+            "description": "Get intelligent scheduling and reminders based on your habits and meetings."
           }
         ]
       },
@@ -693,37 +583,42 @@
         "heading": "AI Powered Games Preview",
         "sliderData": [
           {
-            "img": "/assets/home/softwarePreview/game.png",
+            "img": "/assets/home/softwarePreview/games/game.png",
             "title": "AI Chess Master",
             "description": "Challenge yourself against an adaptive AI chess engine."
           },
           {
-            "img": "/assets/home/softwarePreview/blockchain.png",
+            "img": "/assets/home/softwarePreview/metaverse.png",
             "title": "Puzzle Adventure",
             "description": "Solve puzzles with hints and dynamic difficulty powered by AI."
           },
           {
-            "img": "/assets/home/softwarePreview/software.png",
+            "img": "/assets/home/softwarePreview/metaverse2.png",
             "title": "AI Racing League",
             "description": "Race against AI drivers that learn and improve over time."
+          },
+          {
+            "img": "/assets/home/softwarePreview/metaverse3.png",
+            "title": "Puzzle Adventure",
+            "description": "Solve puzzles with hints and dynamic difficulty powered by AI."
           }
         ]
       },
-      "AI Powered Website": {
+      "AI Powered Metaverse": {
         "heading": "AI Powered Website Preview",
         "sliderData": [
           {
-            "img": "/assets/home/softwarePreview/blockchain.png",
+            "img": "/assets/home/softwarePreview/metaverse/metaverse.png",
             "title": "Smart Portfolio",
             "description": "Personalized portfolio sites that adapt content based on visitor behavior."
           },
           {
-            "img": "/assets/home/softwarePreview/software.png",
+            "img": "/assets/home/softwarePreview/metaverse/metaverse2.png",
             "title": "E-commerce Platform",
             "description": "AI-powered product recommendations and dynamic pricing for online stores."
           },
           {
-            "img": "/assets/home/softwarePreview/application.png",
+            "img": "/assets/home/softwarePreview/metaverse/metaverse3.png",
             "title": "AI Blog Engine",
             "description": "Content suggestions and SEO optimization powered by machine learning."
           }
@@ -934,7 +829,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://play.google.com/store/apps/details?id=com.zevio",
-      "image": "/assets/home/caseStudy/zevio.png"
+      "image": "/assets/home/caseStudy/zedio-new.png"
     },
     {
       "company": "Boatflex - Boat rental Europe",
@@ -1002,20 +897,8 @@
     "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
     "logos": [
       {
-        "name": "Zedio",
-        "src": "/assets/home/partnership/zedio.webp"
-      },
-      {
         "name": "Boatflex",
         "src": "/assets/home/partnership/boatflex.svg"
-      },
-      {
-        "name": "Garaaz",
-        "src": "/assets/home/partnership/garaaz.webp"
-      },
-      {
-        "name": "Toronto Real Estate",
-        "src": "/assets/home/partnership/toronto.webp"
       },
       {
         "name": "Robot AT Work",
@@ -1024,6 +907,70 @@
       {
         "name": "Sprogkar",
         "src": "/assets/home/partnership/sprogklar.png"
+      },
+      {
+        "name": "Zenegy",
+        "src": "/assets/home/partnership/zenegy.svg"
+      },
+      {
+        "name": "Tropic Link",
+        "src": "/assets/home/partnership/tropicLink.png"
+      },
+      {
+        "name": "Vattenfall",
+        "src": "/assets/home/partnership/vattenfall_logo.svg"
+      },
+      {
+        "name": "Actee",
+        "src": "/assets/home/partnership/actee.png"
+      },
+      {
+        "name": "Evolution300",
+        "src": "/assets/home/partnership/evo360-black.png"
+      },
+      {
+        "name": "Divyaayurveda",
+        "src": "/assets/home/partnership/divyaayurveda.png"
+      },
+      {
+        "name": "Induction Health Care",
+        "src": "/assets/home/partnership/inductionhealthcare.png"
+      },
+      {
+        "name": "AMS",
+        "src": "/assets/home/partnership/AMS_logo.png"
+      },
+      {
+        "name": "FairHope",
+        "src": "/assets/home/partnership/fairhope.png"
+      },
+      {
+        "name": "FYE",
+        "src": "/assets/home/partnership/fye.png"
+      },
+      {
+        "name": "Find IT EZ",
+        "src": "/assets/home/partnership/finditez.png"
+      },
+      {
+        "name": "Tscherning",
+        "src": "/assets/home/partnership/tscherning-logo.svg"
+      },
+      {
+        "name": "Probus",
+        "src": "/assets/home/partnership/probus_logo.svg"
+      },
+      {
+        "name": "DealIndia",
+        "src": "/assets/home/partnership/dealindia.png"
+      },
+      {
+        "name": "Naukri",
+        "src": "/assets/home/partnership/naukri.png"
+      },
+      {
+        "name": "NearBy",
+        "src": "/assets/home/partnership/nearby.webp"
       }
     ]
   },
