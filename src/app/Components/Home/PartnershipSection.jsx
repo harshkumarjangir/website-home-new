@@ -5,7 +5,7 @@ const PartnershipSection = ({ data }) => {
   const { title, logos } = data;
 
   // Add all logo names you want inverted here
-  const invertLogos = ["Robot AT Work", "Zenegy"];
+  const invertLogos = ["Robot AT Work"];
 
   return (
     <section className="bg-black text-white py-16 px-6 md:px-16">

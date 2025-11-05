@@ -829,7 +829,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://play.google.com/store/apps/details?id=com.zevio",
-      "image": "/assets/home/caseStudy/zedio-new.png"
+      "image": "/assets/home/caseStudy/zevio.png"
     },
     {
       "company": "Boatflex - Boat rental Europe",
@@ -882,7 +882,7 @@
       ],
       "buttonText": "View Project",
       "buttonLink": "https://apps.apple.com/us/app/toronto-real-estate-homeoptima/id886930132",
-      "image": "/assets/home/caseStudy/toronto-real-esate-home-optima.png"
+      "image": "/assets/home/caseStudy/homeoptima.png"
     }
   ],
   "aiAdvisorySection": {
@@ -898,11 +898,11 @@
     "logos": [
       {
         "name": "Boatflex",
-        "src": "/assets/home/partnership/boatflex.svg"
+        "src": "/assets/home/partnership/bootflex.png"
       },
       {
-        "name": "Robot AT Work",
-        "src": "/assets/home/partnership/robotatwork.png"
+        "name": "Tscherning",
+        "src": "/assets/home/partnership/tscherning-logo.png"
       },
       {
         "name": "Sprogkar",
@@ -910,23 +910,27 @@
       },
       {
         "name": "Zenegy",
-        "src": "/assets/home/partnership/zenegy.svg"
+        "src": "/assets/home/partnership/zenegy.png"
+      },
+      {
+        "name": "Vattenfall",
+        "src": "/assets/home/partnership/vattenfall_logo.png"
+      },
+      {
+        "name": "Robot AT Work",
+        "src": "/assets/home/partnership/robotatwork.png"
       },
       {
         "name": "Tropic Link",
         "src": "/assets/home/partnership/tropicLink.png"
       },
       {
-        "name": "Vattenfall",
-        "src": "/assets/home/partnership/vattenfall_logo.svg"
-      },
-      {
         "name": "Actee",
         "src": "/assets/home/partnership/actee.png"
       },
       {
-        "name": "Evolution300",
-        "src": "/assets/home/partnership/evo360-black.png"
+        "name": "Probus",
+        "src": "/assets/home/partnership/probus_logo.png"
       },
       {
         "name": "Divyaayurveda",
@@ -949,16 +953,12 @@
         "src": "/assets/home/partnership/fye.png"
       },
       {
-        "name": "Find IT EZ",
-        "src": "/assets/home/partnership/finditez.png"
+        "name": "NearBy",
+        "src": "/assets/home/partnership/nearby.webp"
       },
       {
-        "name": "Tscherning",
-        "src": "/assets/home/partnership/tscherning-logo.svg"
-      },
-      {
-        "name": "Probus",
-        "src": "/assets/home/partnership/probus_logo.svg"
+        "name": "Evolution300",
+        "src": "/assets/home/partnership/evo360-black.png"
       },
       {
         "name": "DealIndia",
@@ -969,8 +969,8 @@
         "src": "/assets/home/partnership/naukri.png"
       },
       {
-        "name": "NearBy",
-        "src": "/assets/home/partnership/nearby.webp"
+        "name": "Find IT EZ",
+        "src": "/assets/home/partnership/finditez.png"
       }
     ]
   },
