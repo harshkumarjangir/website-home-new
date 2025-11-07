@@ -24,7 +24,7 @@ export default function PartnershipExperience({ data }) {
         <h2 className="text-2xl sm:text-3xl lg:text-4xl mb-4">
           {heading}
         </h2>
-        <p className="text-gray-300 text-base sm:text-lg mb-8 sm:mb-12 max-w-3xl">
+        <p className="text-gray-300 text-base sm:text-lg mb-8 sm:mb-12 max-w-5xl">
           {description}
         </p>
 
